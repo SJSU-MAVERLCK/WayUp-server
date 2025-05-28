@@ -1,0 +1,1 @@
+TMAP_API_KEY = "fAzoQjZnu82d3VBgja5b88ThkFMgTlDb1BzmjyXm"
